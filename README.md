@@ -2,7 +2,6 @@
 
 This is a PowerShell script that takes the data from an existing CSV file and creates user accounts in Active Directory 
 
----
 
 ## Requirements
 
@@ -12,7 +11,6 @@ This is a PowerShell script that takes the data from an existing CSV file and cr
 
 - Have PowerShell installed (which should be by default)
 
----
 
 ## How Does This Script Work?
 
