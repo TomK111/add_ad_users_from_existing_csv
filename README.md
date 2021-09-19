@@ -1,4 +1,4 @@
-## Create Active Directory Users From Existing CSV File
+# Create Active Directory Users From Existing CSV File
 
 This is a PowerShell script that takes the data from an existing CSV file and creates user accounts in Active Directory 
 
